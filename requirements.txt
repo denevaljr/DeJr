@@ -1,0 +1,5 @@
+requests
+python-dotenv
+speechrecognition
+pyttsx3
+pyaudio; platform_system=="Windows"
